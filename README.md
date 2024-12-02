@@ -16,3 +16,8 @@ Access code files <a href="https://github.com/mariyaviswa/Calendar_Using_C_langu
   <li>C/C++ compiler (Recommended: GCC Compiler)</li>
   <li>Command Prompt or Windows Powershell</li>
 </ul>
+<br>
+<h2>Sample Output</h2>
+<br>
+<br>
+<img src="https://github.com/mariyaviswa/Calendar_Using_C_language/blob/main/C_language_project/Screenshot_sample.png">
