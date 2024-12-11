@@ -2,14 +2,14 @@
 
 It will show the calendar for any month and any year.
 
-<h1>Description</h1>
+<h2>Description</h2>
 
 This mini project was created using C language. This  will show the separate month calendar for the year.
 Example - If we Enter year and Month, it will show the month calendar.
 For reference - See the Screenshot_sample.png<br>
 Access code files <a href="https://github.com/mariyaviswa/Calendar_Using_C_language/blob/main/C_language_project/Calendar.c">here</a>
 
-<h1>Requirements</h1>
+<h2>Requirements</h2>
 
 <ul style="list-style-type: circle;">
   <li>A software (IDE) for reviewing the code</li>
